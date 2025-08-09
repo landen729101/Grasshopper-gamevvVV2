@@ -1,4 +1,4 @@
-# Grasshopper-gamevvVV2
+
 <script>
 (() => {
   const canvas = document.getElementById('c');
